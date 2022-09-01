@@ -3,7 +3,7 @@ Simple popup message for Flutter.
 
 ## Installing
 
-1. Add dependencies to `pubspec.yaml`
+1.  Add dependencies to `pubspec.yaml`
 
     ```yaml
     dependencies:
@@ -12,13 +12,13 @@ Simple popup message for Flutter.
                 url: https://github.com/DevHopsGithub/pop_message
     ```
 
-2. Run pub get.
+2.  Run pub get.
 
-   ```shell
-   flutter pub get
-   ```
+    ```shell
+    flutter pub get
+    ```
 
-3. Import package.
+3.  Import package.
 
     ```dart
     import 'package:pop_message/pop_message.dart';
