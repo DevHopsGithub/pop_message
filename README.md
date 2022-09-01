@@ -1,4 +1,6 @@
 ![banner](https://raw.githubusercontent.com/teixeirazeus/pop_message/master/readme_assets/banner.png)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/c051db465f7a474aa4a21adcdc6ee212)](https://www.codacy.com/gh/DevHopsGithub/pop_message/dashboard?utm_source=github.com\&utm_medium=referral\&utm_content=DevHopsGithub/pop_message\&utm_campaign=Badge_Grade)
+
 Simple popup message for Flutter.
 
 ## Installing
