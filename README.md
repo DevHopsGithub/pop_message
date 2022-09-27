@@ -9,7 +9,7 @@ Simple popup message for Flutter.
 
     ```yaml
     dependencies:
-        cronos:
+        pop_message:
             git:
                 url: https://github.com/DevHopsGithub/pop_message
     ```
